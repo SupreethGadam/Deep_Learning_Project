@@ -6,11 +6,4 @@ Contributors: Prakadeeswaran Manivannan, Harish Gnana Sekaran, Supreeth Gadamset
 Reference Code: CycleGAN_Pytorch: Nachiket293: https://www.kaggle.com/code/nachiket273/cyclegan-pytorch/notebook
 
 Yamaha Dataset for training our model
-:@inproceedings{maturana2018real,
-  title={Real-time semantic mapping for autonomous off-road navigation},
-  author={Maturana, Daniel and Chou, Po-Wei and Uenoyama, Masashi and Scherer, Sebastian},
-  booktitle={Field and Service Robotics},
-  pages={335--350},
-  year={2018},
-  organization={Springer}
-}
+:Daniel Maturana, Po-Wei Chou, Masashi Uenoyama, and Sebastian Scherer. "Real-time semantic mapping for autonomous off-road navigation." In Field and Service Robotics, pp. 335-350. Springer, 2018
